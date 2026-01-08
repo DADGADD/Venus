@@ -1,0 +1,8 @@
+{
+  "name": "Venus",
+  "description": "A comprehensive multi-modal creative suite powered by Gemini, featuring text-to-speech, image generation, video production, and real-time voice interaction.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
